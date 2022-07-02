@@ -40,4 +40,4 @@ displayscreen.blit(player_image,player_rect)
 [Icon Archive](https://iconarchive.com/) : provide lots of game charators to download<br>
 [Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/): download game music ,and can also create music by yourself
 
-<img src="https://user-images.githubusercontent.com/108521052/176983447-fb7d76b8-c5d5-43d8-ae8d-dab44eed1409.png" width="400" height="300" alt="2.py program screenshot><br>
+<img src="https://user-images.githubusercontent.com/108521052/176983447-fb7d76b8-c5d5-43d8-ae8d-dab44eed1409.png" width="400" height="300" alt="2.py program screenshot"><br>
