@@ -4,8 +4,7 @@
    1. Pygame Page: http://pygame.org
    2. documentation: http://pygame.org/docs/ref/
    3. Icon Archive: https://iconarchive.com/  (download game charactors)
-   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/
-   5. ~~xxxxx忘記了~~<br><br>
+   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ <br><br>
 ------
 
 **_2. What is PYGAME_**:
@@ -20,4 +19,15 @@
 | _1.py_ | Create my game surface, game loop and drawing.|
 | _2.py_ | Blit text, font, sound and image objects.   |
 | _3.py_ | Getting uuser keyboard and collision dection.|
+
+**_4. Code snippet_**
+```python
+#Create game display
+import pygame#遊戲模組 載入pygame module
+pygame.init()#遊戲模組啟動
+WINDOW_WIDTH,WINDOW_HEIGHT=800,600
+displayscreen=pygame.display.set_mode((WINDOW_WIDTH,WINDOW_HEIGHT))#產生畫布
+pygame.display.set_caption("My first pygame!")
+
+```
    
