@@ -15,7 +15,7 @@
    * Pygame provides lots of built-in game objects to create the games <br><br>
 
 **_3.PYGame Basics_**:
-| name | Description |
+| code | Description |
 |:-----:|:----------:|
 | _1.py_ | Create my game surface, game loop and drawing.|
 | _2.py_ | Blit text, font, sound and image objects.   |
