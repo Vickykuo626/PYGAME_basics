@@ -10,8 +10,8 @@
 ------
 
 **_2. What is PYGAME_**:
-   *Pygame provides "Display,Sound,Image,Text,Event" to create games
-   *Pygame can create 2-D games
-   *Pygame detects users using "Keyboard, jjoystick,mouse" to control the games
-   *Pygame provides lots of built-in game objects to create the games
+   * Pygame provides "Display,Sound,Image,Text,Event" to create games
+   * Pygame can create 2-D games
+   * Pygame detects users using "Keyboard, jjoystick,mouse" to control the games
+   * Pygame provides lots of built-in game objects to create the games
    
