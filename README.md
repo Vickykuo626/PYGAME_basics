@@ -4,7 +4,6 @@
    1. Pygame Page: http://pygame.org
    2. documentation: http://pygame.org/docs/ref/
    
-------
 
 **_2. What is PYGAME_**:
    * Pygame provides "Display,Sound,Image,Text,Event" to create games
