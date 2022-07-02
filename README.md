@@ -23,10 +23,10 @@
 **_4. Code snippet_**
 ```python
 #Create game display
-import pygame#遊戲模組 載入pygame module
-pygame.init()#遊戲模組啟動
+import pygame
+pygame.init()
 WINDOW_WIDTH,WINDOW_HEIGHT=800,600
-displayscreen=pygame.display.set_mode((WINDOW_WIDTH,WINDOW_HEIGHT))#產生畫布
+displayscreen=pygame.display.set_mode((WINDOW_WIDTH,WINDOW_HEIGHT))
 pygame.display.set_caption("My first pygame!")
 
 ```
