@@ -37,7 +37,7 @@ player_rect.left=32
 player_rect.centery=WINDOW_HEIGHT//2
 displayscreen.blit(player_image,player_rect)
 ```
-**_5. Game Assets:_**:<br><br>
-[Icon Archive](https://iconarchive.com/) : provide lots of game charators to download
+**_5. Game Assets:_**:<br>
+[Icon Archive](https://iconarchive.com/) : provide lots of game charators to download<br>
 [Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/): download game music ,and can also create music bt yourself
 
