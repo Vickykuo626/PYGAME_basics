@@ -39,5 +39,5 @@ displayscreen.blit(player_image,player_rect)
 ```
 **_5. Game Assets:_**:<br>
 [Icon Archive](https://iconarchive.com/) : provide lots of game charators to download<br>
-[Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/): download game music ,and can also create music bt yourself
+[Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/): download game music ,and can also create music by yourself
 
