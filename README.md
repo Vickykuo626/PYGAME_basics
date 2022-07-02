@@ -3,8 +3,7 @@
 **_1. References_**
    1. Pygame Page: http://pygame.org
    2. documentation: http://pygame.org/docs/ref/
-   3. Icon Archive: https://iconarchive.com/  (download game charactors)
-   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ <br><br>
+   
 ------
 
 **_2. What is PYGAME_**:
@@ -38,3 +37,7 @@ player_rect.left=32
 player_rect.centery=WINDOW_HEIGHT//2
 displayscreen.blit(player_image,player_rect)
 ```
+**_5. Game Assets:_**:<br><br>
+[Icon Archive](https://iconarchive.com/) : provide lots of game charators to download
+[Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/): download game music ,and can also create music bt yourself
+
